@@ -1,0 +1,132 @@
+body{
+    background-color: black;
+}
+.home{
+    background-color: black;   
+    color:white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .home:hover{
+       color: red;
+    }
+    .home:active{
+       color:white;
+    }
+    .trilogy{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .trilogy:hover{
+       color:red;
+    }
+    .trilogy:active{
+       color:white;
+    }
+    .VG{
+    background-color: black;   
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 135px;
+    }
+    .VG:hover{
+       color: red;
+    }
+    .VG:active{
+       color:white;
+    }
+    .author{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .author:hover{
+       color: red;
+    }
+    .author:active{
+       color:white;
+    }
+    .quotes{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .quotes:hover{
+       color: red;
+    }
+    .quotes:active{
+       color: white;
+    }
+    .abt{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .abt:hover{
+    color:red;
+    
+    }
+    .abt:active{
+       color:white;
+    }
+.sparta{
+    width: 75px;
+    position: relative;
+    left: 10px;
+    bottom: 100px;
+}
+.m33{
+    position:relative;
+    top: 200px;
+    right: 600px;
+    animation:mySlide;
+    animation-duration: 3s;
+    }
+@keyframes mySlide{
+    from{margin-left:100%;}
+    to{margin-left:0%;}
+}
+.m34{
+    position:relative;
+    top: 200px;
+    right: 400px;
+    animation:mySlide;
+    animation-duration: 3s;
+}
+.m35{
+    position:relative;
+    height: 260px;
+    top: 200px;
+    right: 200px;
+    animation:mySlide;
+    animation-duration: 3s;
+}

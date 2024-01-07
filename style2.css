@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+}
+.home{
+    background-color: black;   
+    color:white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .home:hover{
+       color: red;
+    }
+    .home:active{
+       color:white;
+    }
+    .trilogy{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .trilogy:hover{
+       color:red;
+    }
+    .trilogy:active{
+       color:white;
+    }
+    .VG{
+    background-color: black;   
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 135px;
+    }
+    .VG:hover{
+       color: red;
+    }
+    .VG:active{
+       color:white;
+    }
+    .author{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .author:hover{
+       color: red;
+    }
+    .author:active{
+       color:white;
+    }
+    .quotes{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .quotes:hover{
+       color: red;
+    }
+    .quotes:active{
+       color: white;
+    }
+    .abt{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 130px;
+    }
+    .abt:hover{
+    color:red;
+    
+    }
+    .abt:active{
+       color:white;
+    }
+.sparta{
+    width: 75px;
+    position: relative;
+    left: 10px;
+    bottom: 100px;
+}
+.glux{
+    width: 300px;
+    position: relative;
+    top: 150px;
+    right: 600px;
+    box-shadow: 10px 10px 5px gray;
+}
+.sign{
+    position: relative;
+    top: 150px;
+}
+.signa{
+    color: red;
+    position: relative;
+    top: 130px;
+    left: 1030px;
+}
+.bio{
+    color: red;
+    border-color: brown;
+    border-style: solid;
+    height: 200px;
+    width: 400px;
+    position: relative;
+    left: 50px;
+    top: 100px;
+    box-shadow: 10px 10px 5px red;
+}
